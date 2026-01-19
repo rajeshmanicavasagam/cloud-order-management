@@ -15,3 +15,4 @@ C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\
 C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\refint\Order.Infrastructure.dll
 C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\Order.Infrastructure.pdb
 C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\ref\Order.Infrastructure.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\Order.Infrastructure.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\refint\Order.Application.dll
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\Order.Application.pdb
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\ref\Order.Application.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\Order.Application.sourcelink.json

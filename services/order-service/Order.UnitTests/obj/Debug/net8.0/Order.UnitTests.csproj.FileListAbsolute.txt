@@ -102,3 +102,4 @@ C:\Users\raj\cloud-order-management\services\order-service\Order.UnitTests\obj\D
 C:\Users\raj\cloud-order-management\services\order-service\Order.UnitTests\obj\Debug\net8.0\Order.UnitTests.pdb
 C:\Users\raj\cloud-order-management\services\order-service\Order.UnitTests\obj\Debug\net8.0\Order.UnitTests.genruntimeconfig.cache
 C:\Users\raj\cloud-order-management\services\order-service\Order.UnitTests\obj\Debug\net8.0\ref\Order.UnitTests.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.UnitTests\obj\Debug\net8.0\Order.UnitTests.sourcelink.json

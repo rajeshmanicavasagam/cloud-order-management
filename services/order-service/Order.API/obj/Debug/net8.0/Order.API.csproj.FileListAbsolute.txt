@@ -37,3 +37,4 @@ C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\n
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\Order.API.pdb
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\Order.API.genruntimeconfig.cache
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\ref\Order.API.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\Order.API.sourcelink.json
