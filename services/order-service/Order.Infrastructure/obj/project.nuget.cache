@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YZQzc21MLOM=",
+  "dgSpecHash": "jguaZ6F2u64=",
   "success": true,
   "projectFilePath": "C:\\Users\\raj\\cloud-order-management\\services\\order-service\\Order.Infrastructure\\Order.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\raj\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.2\\microsoft.extensions.dependencyinjection.10.0.2.nupkg.sha512",
+    "C:\\Users\\raj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,6 +6,8 @@ C:\Users\raj\cloud-order-management\services\order-service\Order.API\bin\Debug\n
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\bin\Debug\net8.0\Order.API.dll
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\bin\Debug\net8.0\Order.API.pdb
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -23,6 +25,7 @@ C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\n
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\Order.API.csproj.CoreCompileInputs.cache
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\Order.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\Order.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\Order.API.sourcelink.json
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\staticwebassets\msbuild.Order.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -37,4 +40,3 @@ C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\n
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\Order.API.pdb
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\Order.API.genruntimeconfig.cache
 C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\ref\Order.API.dll
-C:\Users\raj\cloud-order-management\services\order-service\Order.API\obj\Debug\net8.0\Order.API.sourcelink.json

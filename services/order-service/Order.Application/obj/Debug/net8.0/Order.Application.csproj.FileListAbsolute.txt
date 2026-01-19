@@ -8,9 +8,9 @@ C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfoInputs.cache
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfo.cs
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\Order.Application.sourcelink.json
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\Order.Ap.8554589A.Up2Date
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\Order.Application.dll
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\refint\Order.Application.dll
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\Order.Application.pdb
 C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\ref\Order.Application.dll
-C:\Users\raj\cloud-order-management\services\order-service\Order.Application\obj\Debug\net8.0\Order.Application.sourcelink.json
