@@ -115,9 +115,6 @@ Distributed tracing (OpenTelemetry)
 
 ---
 
-### Reference it in README
-
-Add this section under **Order Lifecycle**:
 
 ```md
 ![Order Lifecycle](docs/order-lifecycle.png)
