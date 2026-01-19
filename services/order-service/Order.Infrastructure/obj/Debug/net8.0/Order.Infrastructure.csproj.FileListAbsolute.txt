@@ -1,0 +1,17 @@
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\bin\Debug\net8.0\Order.Infrastructure.deps.json
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\bin\Debug\net8.0\Order.Infrastructure.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\bin\Debug\net8.0\Order.Infrastructure.pdb
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\bin\Debug\net8.0\Order.Application.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\bin\Debug\net8.0\Order.Application.pdb
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\Order.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\Order.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\Order.Infrastructure.AssemblyInfo.cs
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\Order.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\Order.In.AA82CA84.Up2Date
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\Order.Infrastructure.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\refint\Order.Infrastructure.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\Order.Infrastructure.pdb
+C:\Users\raj\cloud-order-management\services\order-service\Order.Infrastructure\obj\Debug\net8.0\ref\Order.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\bin\Debug\net8.0\Order.Domain.deps.json
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\obj\Debug\net8.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\obj\Debug\net8.0\Order.Domain.AssemblyInfoInputs.cache
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\obj\Debug\net8.0\Order.Domain.AssemblyInfo.cs
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\obj\Debug\net8.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\obj\Debug\net8.0\Order.Domain.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\obj\Debug\net8.0\refint\Order.Domain.dll
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\obj\Debug\net8.0\Order.Domain.pdb
+C:\Users\raj\cloud-order-management\services\order-service\Order.Domain\obj\Debug\net8.0\ref\Order.Domain.dll
